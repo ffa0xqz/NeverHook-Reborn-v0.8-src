@@ -1,2 +1,4 @@
 # NeverHook-Reborn-v0.8-src
-very bad shit
+need crash fix
+
+https://discord.gg/JQxmqkQ3nZ
